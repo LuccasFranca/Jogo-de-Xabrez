@@ -85,7 +85,7 @@ int main() {
     // Exemplo: Crie uma função recursiva para o movimento do Bispo.
 
     // Sugestão: Implemente a movimentação do Cavalo utilizando loops com variáveis múltiplas e condições avançadas.
-    // Inclua o uso de continue e break dentro dos loops.
+    // Inclua o uso de continue e break dentro dos loops
 
     return 0;
 }
